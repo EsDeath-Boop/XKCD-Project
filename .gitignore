@@ -1,0 +1,4 @@
+/sendmail/auth_password
+sendmail.ini
+/vendor/
+*.log

@@ -1,0 +1,43 @@
+[2025-06-12 13:06:42] Verification Email
+To: agarwalvaasu1@gmail.com
+Subject: Your Verification Code
+Code: 308221
+Body: <p>Your verification code is: <strong>308221</strong></p>
+
+[2025-06-12 13:11:40] Verification Email
+To: agarwalvaasu1@gmail.com
+Subject: Your Verification Code
+Code: 192091
+Body: <p>Your verification code is: <strong>192091</strong></p>
+
+[2025-06-12 18:45:42] Verification Email
+To: agarwalvaasu1@gmail.com
+Subject: Your Verification Code
+Code: 719019
+Body: <p>Your verification code is: <strong>719019</strong></p>
+
+[2025-06-12 18:51:05] Verification Email
+To: agarwalvaasu1@gmail.com
+Subject: Your Verification Code
+Code: 495750
+Body: <p>Your verification code is: <strong>495750</strong></p>
+
+[2025-06-12 18:53:08] Verification Email
+To: simarkhurana15@gmail.com
+Subject: Your Verification Code
+Code: 619612
+Body: <p>Your verification code is: <strong>619612</strong></p>
+
+[2025-06-12 18:59:14] XKCD Comic Email
+Subject: Your XKCD Comic
+Recipients: agarwalvaasu1@gmail.com, simarkhurana15@gmail.com
+Content: <h2>XKCD Comic</h2>
+<img src="https://imgs.xkcd.com/comics/graffiti.png" alt="XKCD Comic">
+<p><a href="#" id="unsubscribe-button">Unsubscribe</a></p>
+
+[2025-06-12 19:05:53] [TEST] Verification Email
+To: agarwalvaasu1@gmail.com
+Subject: Your Verification Code
+Code: 551890
+Body: <p>Your verification code is: <strong>551890</strong></p>
+
